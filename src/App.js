@@ -1,9 +1,12 @@
+import ToggleButtonColor from "./ToggleButtonColor";
 
 
-function App() {
+ const App = () => {
   return (
-    <></>
-  );
-}
+     <>
 
+     <ToggleButtonColor/>
+  </>
+  )
+}
 export default App;
